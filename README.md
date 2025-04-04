@@ -1,5 +1,7 @@
 # スプレッドシート Slack リーダー
 
+deprecated. see `oss_weekly_reporter`
+
 Google スプレッドシートから Slack の会話データを読み取り、表示用にフォーマットする Python ユーティリティです。
 
 ## 説明
